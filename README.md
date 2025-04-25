@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 A trivial university student trying to create something unprecedented.<br>🤝 Product Builder / Customer-centric / Agile Mindset<br>🌱 Software Engineer / Tech Lead / Project Manager<br>⚡ Study hard, play even harder
+🌱 "Lấy câu chuyện người dùng làm trọng tâm là một trong những cách để xây dựng và phát triển sản phẩm bền vững."
 
 
 ## 🌐 Socials:
